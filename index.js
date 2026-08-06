@@ -13,4 +13,4 @@ client.once('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
 
-client.login(process.env.DISCORD_TOKEN);
+client.login(process.env.MTUxOTcxNDQwODMyNDkyMzQ4Mg.Gbs0ej.9mVY-VReqhRRm_L_XSnkAaU1v2rubCZRT4TMbE);
