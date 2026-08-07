@@ -1,5 +1,4 @@
-const http = require('http');
-http.createServer((req, res) => res.end('Bot is awake!')).listen(process.env.PORT || 3000);
+
 
 {
       "name": "kal_bot",
